@@ -1,0 +1,23 @@
+{
+  "id": "3727514",
+  "name": "项目图标heji",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11092057",
+      "name": "天猫-01",
+      "font_class": "tianmao-",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "566774",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    }
+  ]
+}
